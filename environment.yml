@@ -3,3 +3,4 @@ channels:
 dependencies:
   - pandas
   - matplotlib
+  - ipympl
